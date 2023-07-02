@@ -39,4 +39,10 @@ A million different videos on the internet and my semi-functional brain 🧠.
 ## RESPONSIVENESS CHECK
 ![todo6](https://github.com/shreeyachatzz/To-Do-Web/assets/91721717/6e51f54e-285c-46b7-855e-a9db62336c3a)
 
-
+## Note to myself:
+### How to access the project:
+- clone from git
+- run ```npm i``` in ```\server```, root```.\```, and ```client```
+- turn on PGAdmin in your device to access the already created databases
+- now run ```npm run start``` in both the client and server.
+- Now the ```client``` website should be working. Create your account or use your preexisting account to access your to-dos
